@@ -1,0 +1,15 @@
+F:\VisualStudio\BookStore_12\BookStore\BookStore.DL\bin\Debug\net6.0\BookStore.DL.deps.json
+F:\VisualStudio\BookStore_12\BookStore\BookStore.DL\bin\Debug\net6.0\BookStore.DL.dll
+F:\VisualStudio\BookStore_12\BookStore\BookStore.DL\bin\Debug\net6.0\BookStore.DL.pdb
+F:\VisualStudio\BookStore_12\BookStore\BookStore.DL\bin\Debug\net6.0\BookStore.Models.dll
+F:\VisualStudio\BookStore_12\BookStore\BookStore.DL\bin\Debug\net6.0\BookStore.Models.pdb
+F:\VisualStudio\BookStore_12\BookStore\BookStore.DL\obj\Debug\net6.0\BookStore.DL.csproj.AssemblyReference.cache
+F:\VisualStudio\BookStore_12\BookStore\BookStore.DL\obj\Debug\net6.0\BookStore.DL.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualStudio\BookStore_12\BookStore\BookStore.DL\obj\Debug\net6.0\BookStore.DL.AssemblyInfoInputs.cache
+F:\VisualStudio\BookStore_12\BookStore\BookStore.DL\obj\Debug\net6.0\BookStore.DL.AssemblyInfo.cs
+F:\VisualStudio\BookStore_12\BookStore\BookStore.DL\obj\Debug\net6.0\BookStore.DL.csproj.CoreCompileInputs.cache
+F:\VisualStudio\BookStore_12\BookStore\BookStore.DL\obj\Debug\net6.0\BookStore.DL.csproj.CopyComplete
+F:\VisualStudio\BookStore_12\BookStore\BookStore.DL\obj\Debug\net6.0\BookStore.DL.dll
+F:\VisualStudio\BookStore_12\BookStore\BookStore.DL\obj\Debug\net6.0\refint\BookStore.DL.dll
+F:\VisualStudio\BookStore_12\BookStore\BookStore.DL\obj\Debug\net6.0\BookStore.DL.pdb
+F:\VisualStudio\BookStore_12\BookStore\BookStore.DL\obj\Debug\net6.0\ref\BookStore.DL.dll

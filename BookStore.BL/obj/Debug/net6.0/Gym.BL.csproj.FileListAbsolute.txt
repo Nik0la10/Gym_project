@@ -1,0 +1,39 @@
+C:\Users\MSI\Desktop\BookStore - Copy\BookStore.BL\obj\Debug\net6.0\Gym.BL.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\BookStore - Copy\BookStore.BL\obj\Debug\net6.0\Gym.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\BookStore - Copy\BookStore.BL\obj\Debug\net6.0\Gym.BL.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\BookStore - Copy\BookStore.BL\obj\Debug\net6.0\Gym.BL.AssemblyInfo.cs
+C:\Users\MSI\Desktop\BookStore - Copy\BookStore.BL\obj\Debug\net6.0\Gym.BL.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\GymStore\BookStore.BL\obj\Debug\net6.0\Gym.BL.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\GymStore\BookStore.BL\obj\Debug\net6.0\Gym.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\GymStore\BookStore.BL\obj\Debug\net6.0\Gym.BL.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\GymStore\BookStore.BL\obj\Debug\net6.0\Gym.BL.AssemblyInfo.cs
+C:\Users\MSI\Desktop\GymStore\BookStore.BL\obj\Debug\net6.0\Gym.BL.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\GymStore\BookStore.BL\bin\Debug\net6.0\Gym.BL.deps.json
+C:\Users\MSI\Desktop\GymStore\BookStore.BL\bin\Debug\net6.0\Gym.BL.dll
+C:\Users\MSI\Desktop\GymStore\BookStore.BL\bin\Debug\net6.0\Gym.BL.pdb
+C:\Users\MSI\Desktop\GymStore\BookStore.BL\bin\Debug\net6.0\Gym.DL.dll
+C:\Users\MSI\Desktop\GymStore\BookStore.BL\bin\Debug\net6.0\Gym.Models.dll
+C:\Users\MSI\Desktop\GymStore\BookStore.BL\bin\Debug\net6.0\Gym.DL.pdb
+C:\Users\MSI\Desktop\GymStore\BookStore.BL\bin\Debug\net6.0\Gym.Models.pdb
+C:\Users\MSI\Desktop\GymStore\BookStore.BL\obj\Debug\net6.0\Gym.BL.csproj.CopyComplete
+C:\Users\MSI\Desktop\GymStore\BookStore.BL\obj\Debug\net6.0\Gym.BL.dll
+C:\Users\MSI\Desktop\GymStore\BookStore.BL\obj\Debug\net6.0\refint\Gym.BL.dll
+C:\Users\MSI\Desktop\GymStore\BookStore.BL\obj\Debug\net6.0\Gym.BL.pdb
+C:\Users\MSI\Desktop\GymStore\BookStore.BL\obj\Debug\net6.0\ref\Gym.BL.dll
+C:\Users\MSI\Documents\GymStore\BookStore.BL\bin\Debug\net6.0\Gym.BL.deps.json
+C:\Users\MSI\Documents\GymStore\BookStore.BL\bin\Debug\net6.0\Gym.BL.dll
+C:\Users\MSI\Documents\GymStore\BookStore.BL\bin\Debug\net6.0\Gym.BL.pdb
+C:\Users\MSI\Documents\GymStore\BookStore.BL\bin\Debug\net6.0\Gym.DL.dll
+C:\Users\MSI\Documents\GymStore\BookStore.BL\bin\Debug\net6.0\Gym.Models.dll
+C:\Users\MSI\Documents\GymStore\BookStore.BL\bin\Debug\net6.0\Gym.DL.pdb
+C:\Users\MSI\Documents\GymStore\BookStore.BL\bin\Debug\net6.0\Gym.Models.pdb
+C:\Users\MSI\Documents\GymStore\BookStore.BL\obj\Debug\net6.0\Gym.BL.csproj.AssemblyReference.cache
+C:\Users\MSI\Documents\GymStore\BookStore.BL\obj\Debug\net6.0\Gym.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Documents\GymStore\BookStore.BL\obj\Debug\net6.0\Gym.BL.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\GymStore\BookStore.BL\obj\Debug\net6.0\Gym.BL.AssemblyInfo.cs
+C:\Users\MSI\Documents\GymStore\BookStore.BL\obj\Debug\net6.0\Gym.BL.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\GymStore\BookStore.BL\obj\Debug\net6.0\Gym.BL.csproj.CopyComplete
+C:\Users\MSI\Documents\GymStore\BookStore.BL\obj\Debug\net6.0\Gym.BL.dll
+C:\Users\MSI\Documents\GymStore\BookStore.BL\obj\Debug\net6.0\refint\Gym.BL.dll
+C:\Users\MSI\Documents\GymStore\BookStore.BL\obj\Debug\net6.0\Gym.BL.pdb
+C:\Users\MSI\Documents\GymStore\BookStore.BL\obj\Debug\net6.0\ref\Gym.BL.dll

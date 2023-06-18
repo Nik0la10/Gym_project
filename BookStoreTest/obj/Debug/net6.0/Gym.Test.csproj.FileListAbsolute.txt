@@ -1,0 +1,12 @@
+C:\Users\MSI\Desktop\BookStore - Copy\BookStoreTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\MSI\Desktop\BookStore - Copy\BookStoreTest\obj\Debug\net6.0\Gym.Test.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\BookStore - Copy\BookStoreTest\obj\Debug\net6.0\Gym.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\BookStore - Copy\BookStoreTest\obj\Debug\net6.0\Gym.Test.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\BookStore - Copy\BookStoreTest\obj\Debug\net6.0\Gym.Test.AssemblyInfo.cs
+C:\Users\MSI\Desktop\BookStore - Copy\BookStoreTest\obj\Debug\net6.0\Gym.Test.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\GymStore\BookStoreTest\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\MSI\Desktop\GymStore\BookStoreTest\obj\Debug\net6.0\Gym.Test.csproj.AssemblyReference.cache
+C:\Users\MSI\Desktop\GymStore\BookStoreTest\obj\Debug\net6.0\Gym.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\GymStore\BookStoreTest\obj\Debug\net6.0\Gym.Test.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\GymStore\BookStoreTest\obj\Debug\net6.0\Gym.Test.AssemblyInfo.cs
+C:\Users\MSI\Desktop\GymStore\BookStoreTest\obj\Debug\net6.0\Gym.Test.csproj.CoreCompileInputs.cache
